@@ -11,6 +11,4 @@ contract SimpleContract {
             sum := add(a, b)
         }
     }
-
-
 }
